@@ -1,4 +1,6 @@
-# My Safe App
+# Note:
+
+__This is a fork from https://github.com/safe-global/safe-apps-sdk/tree/master/packages/cra-template-safe-app with adjustments to the missing font__
 
 ## Getting Started
 
